@@ -1,4 +1,4 @@
-# OpenCV 图像处理与压缩工具 / OpenCV Image Processing and Compression Tool
+# OpenCV 图像处理与压缩工具(Qt) / OpenCV Image Processing and Compression Tool (Qt)
 
 这是一个基于Qt和OpenCV开发的图像处理与压缩工具，提供简单易用的图形界面，支持灰度和彩色图像的压缩和解压缩功能。
 
